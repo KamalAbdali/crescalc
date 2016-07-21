@@ -42,9 +42,9 @@ A sample data file is "cities.txt".
 
 *** WHAT ABOUT THE CARRIAGE CONTROL CHARACTERS IN THE OUTPUT FILE? ***
 
-The program outputs the old "printer carriage control" characters:
+The program outputs the old-style "printer carriage control" characters:
 "1" in column 1 to skip a page, "0" in column 1 to skip a line, and 
 blank in column 1 to indicates a normal line. Ignore or process them!
-If these harmless remanants of the past bother you, then can write a 
+If these harmless remnants of the past bother you, then you can write a 
 little program to take care of these characters.
 
